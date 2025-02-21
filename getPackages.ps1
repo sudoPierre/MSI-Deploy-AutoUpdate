@@ -1,4 +1,4 @@
-# Replace with the full path of the folder GpoSoftInstaller : "c:\programs\GpoSoftInstaller"
+# Replace with the full path of the folder MSI-Deploy-AutoUpdate : "c:\programs\MSI-Deploy-AutoUpdate"
 $FullPath = "."
 
 # importing the CSV file that contains the links to the MSI packages
