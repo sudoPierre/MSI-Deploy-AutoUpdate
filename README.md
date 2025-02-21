@@ -18,8 +18,8 @@ This PowerShell script automates the process of downloading and updating MSI pac
 1. Clone this repository or download the script.
 2. Prepare the `packagesLinks.csv` file with the following format:
    ```csv
-   SoftwareName,DownloadURL
-   ExampleSoftware,https://example.com/latest.msi
+   Name;Link
+   ExampleSoftware;https://example.com/latest.msi
    ```
 3. Ensure the script has execution permissions:
    ```powershell
